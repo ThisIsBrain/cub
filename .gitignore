@@ -1,0 +1,7 @@
+Makefile
+*.user
+*.autosave
+cub
+objects/
+res/
+*.swp
